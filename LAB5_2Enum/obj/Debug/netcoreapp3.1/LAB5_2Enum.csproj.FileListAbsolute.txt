@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.exe
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.deps.json
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.dll
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\bin\Debug\netcoreapp3.1\LAB5_2Enum.pdb
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.dll
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.pdb
+C:\Users\nalle\source\repos\LAB5_2Enum\LAB5_2Enum\obj\Debug\netcoreapp3.1\LAB5_2Enum.genruntimeconfig.cache
